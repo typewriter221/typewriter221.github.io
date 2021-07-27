@@ -6,6 +6,12 @@
   - Deep Learning
   - Machine Learning
   - Algorithims  
+### Fields of insterst 🕵️
+- Robotics
+- Computer Vision
+- Deep Learning
+- Machine Learning
+- Algorithims  
 ### Working on  
   - Learning Deep Reinforcement Learning
   - Crowd Aanalysis
