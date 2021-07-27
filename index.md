@@ -1,11 +1,14 @@
 ## Hi! Naman Kaushik here 👋
-🎓 4th year undergrad enrolled in intigrated(B.Tech + M.Tech) course at IIT BHU Varanasi 🧑🏻‍🎓
+🎓 5th year undergrad enrolled in intigrated(B.Tech + M.Tech) course at IIT BHU Varanasi 🧑🏻‍🎓  
 ### Fields of insterst 🕵️
   - Robotics
   - Computer Vision
   - Deep Learning
   - Machine Learning
   - Algorithims  
+### Working on  
+  - Learning Deep Reinforcement Learning
+  - Crowd Aanalysis
 ### Activly looking for 🔎
   - Research Internship in Deep Learning
   - Projects on autoomus robot navigation  
