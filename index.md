@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Hi! Naman Kaushik here 👋
+🎓 4th year undergrad enrolled in intigrated(B.Tech + M.Tech) course at IIT BHU Varanasi 🧑🏻‍🎓
+### Fields of insterst 🕵️
+  - Robotics
+  - Computer Vision
+  - Deep Learning
+  - Machine Learning
+  - Algorithims
+### Activly looking for 🔎
+  - Research Internship in Deep Learning
+  - Projects on autoomus robot navigation
+### Languages I know 💻
+  - Python 🐍(3+ years)
+  - 🇨/🇨➕➕ (3+ years)
+  - MATLAB (2+ years)
 
-You can use the [editor on GitHub](https://github.com/typewriter221/typewriter221.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+📫 Reach out to me via [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naman-kaushik-1bba57168/)](https://www.linkedin.com/in/naman-kaushik-1bba57168/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:namank.cd.mec17@itbhu.ac.in)](mailto:namank.cd.mec17@itbhu.ac.in)
+<!--
+**typewriter221/typewriter221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here are some ideas to get you started:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/typewriter221/typewriter221.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
