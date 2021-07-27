@@ -6,21 +6,9 @@
   - Deep Learning
   - Machine Learning
   - Algorithims  
-### Fields of insterst 🕵️
-  - Robotics
-  - Computer Vision
-  - Deep Learning
-  - Machine Learning
-  - Algorithims  
-### Fields of insterst 🕵️
-- Robotics
-- Computer Vision
-- Deep Learning
-- Machine Learning
-- Algorithims  
 ### Working on  
   - Learning Deep Reinforcement Learning
-  - Crowd Aanalysis
+  - Crowd Aanalysis  
 ### Activly looking for 🔎
   - Research Internship in Deep Learning
   - Projects on autoomus robot navigation  
@@ -28,7 +16,7 @@
   - Python 🐍(3+ years)
   - 🇨/🇨➕➕ (3+ years)
   - MATLAB (2+ years)  
-[!Resume](https://drive.google.com/file/d/1AL1Mvo6kogP2Mfijbo6kLNODQs7-NZYG/view?usp=sharing)  
+[Resume](https://drive.google.com/file/d/1AL1Mvo6kogP2Mfijbo6kLNODQs7-NZYG/view?usp=sharing)  
 
 
 📫 Reach out to me via [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naman-kaushik-1bba57168/)](https://www.linkedin.com/in/naman-kaushik-1bba57168/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:namank.cd.mec17@itbhu.ac.in)](mailto:namank.cd.mec17@itbhu.ac.in)
