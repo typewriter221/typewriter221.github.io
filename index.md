@@ -7,6 +7,12 @@
   - Machine Learning
   - Algorithims  
 ### Fields of insterst 🕵️
+  - Robotics
+  - Computer Vision
+  - Deep Learning
+  - Machine Learning
+  - Algorithims  
+### Fields of insterst 🕵️
 - Robotics
 - Computer Vision
 - Deep Learning
