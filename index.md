@@ -5,10 +5,10 @@
   - Computer Vision
   - Deep Learning
   - Machine Learning
-  - Algorithims
+  - Algorithims  
 ### Activly looking for 🔎
   - Research Internship in Deep Learning
-  - Projects on autoomus robot navigation
+  - Projects on autoomus robot navigation  
 ### Languages I know 💻
   - Python 🐍(3+ years)
   - 🇨/🇨➕➕ (3+ years)
